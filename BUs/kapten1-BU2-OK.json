@@ -1,0 +1,123 @@
+[
+  {
+    "name": "connect.sid",
+    "value": "s%3Au2pqP3-25j84iGfvNMuHHcWF.hVXn3Wo1luIYXw2FutCeXGGnnrKp%2BShshsZXg5htt2U",
+    "domain": "app.kapten.com",
+    "path": "/",
+    "expires": 1574072986.48193,
+    "size": 85,
+    "httpOnly": true,
+    "secure": false,
+    "session": false
+  },
+  {
+    "name": "ajs_user_id",
+    "value": "%225db86702214df71000285831%22",
+    "domain": ".kapten.com",
+    "path": "/",
+    "expires": 1605349784,
+    "size": 41,
+    "httpOnly": false,
+    "secure": false,
+    "session": false
+  },
+  {
+    "name": "deviceIdentifier",
+    "value": "d73472748ae6e40cb257b2e98a864031",
+    "domain": ".kapten.com",
+    "path": "/",
+    "expires": 1574418584,
+    "size": 48,
+    "httpOnly": false,
+    "secure": true,
+    "session": false
+  },
+  {
+    "name": "token",
+    "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJ1c2VyX2lkIjoiNWRiODY3MDIyMTRkZjcxMDAwMjg1ODMxIiwic3ViIjoiNWRiODY3MDIyMTRkZjcxMDAwMjg1ODMxIiwicm9sZXMiOlt7Im5hbWUiOiJjcDpjbGllbnQ6cmlkZXI6In1dLCJpc3MiOiI1ZGI4NjcwMjIxNGRmNzEwMDAyODU4MzEiLCJkaXNwbGF5X25hbWUiOiJBbm5hIERlbGxhIiwiaWF0IjoxNTczODEzNzg0LCJleHAiOjE1NzM4MTQwODR9.RJ-3s9hcKqZ6jXJqJLXmyDJI01HYY-kTU2ImVBjHPDkwmKVb8hxt4amg9fFMSLFabydEiJVGVGJp1e-ZnSrAXqDCnqBTvUlKN9Jssioveqd4evEB1GZSuKM-kI5T5wlZdp_nxbuXQ_yyHYFFcaWW4OfBDZLyqL-mMb7QidJOohYYWOQvw4YN6FRGsPyO9kWt2SCASkg5Zf62vP5xVjJoNhuv_u61tjyC9MRHUxnIoNyCJSVmdHc9rAaRb-R5KODlOANsQLEKAwjOD-O6urcRucxnTvtl_Am2qW5YtHT7eOIhraq8lhlPrlhUm_XVZJSBHC1aHjztKlhgo9pExrR4AFqfduEFLM5CVNEouavxXLLqmytALAFHtVboSq09yGL9ACPizLmyM4bjP58qtA-16Adw6mHXGt_TZ1Kw8lZfgostkIokhurR3MW53_WbxCmOD8NycSYF5_c8DBOg6LiP6Rek302afW_MySRuEJT47SSKUq-R3aqAMR16VlfLgdrg_aEyUIoBp32ka3nskHE0U1UClpsVywVP8EBrC-PsltNtU3Amg6wGZ_YovqDZx7QuqajOHLWknOSLtJnFDPoPs83q3McRsJKohtvSjlG32hgF1iQDd8rkd37j7ctBXPkUvgvvOVJuXY_nVJhvsO-As4oDa3v9wV_mx14Nl6jEjck",
+    "domain": ".kapten.com",
+    "path": "/",
+    "expires": 1574418584,
+    "size": 998,
+    "httpOnly": false,
+    "secure": true,
+    "session": false
+  },
+  {
+    "name": "ajs_anonymous_id",
+    "value": "%22cfed2392-7134-4c11-9704-c205b45a9c0c%22",
+    "domain": ".kapten.com",
+    "path": "/",
+    "expires": 1605349784,
+    "size": 58,
+    "httpOnly": false,
+    "secure": false,
+    "session": false
+  },
+  {
+    "name": "_gid",
+    "value": "GA1.2.264035268.1573813768",
+    "domain": ".kapten.com",
+    "path": "/",
+    "expires": 1573900192,
+    "size": 30,
+    "httpOnly": false,
+    "secure": false,
+    "session": false
+  },
+  {
+    "name": "_ga",
+    "value": "GA1.2.576932888.1573813768",
+    "domain": ".kapten.com",
+    "path": "/",
+    "expires": 1636885792,
+    "size": 29,
+    "httpOnly": false,
+    "secure": false,
+    "session": false
+  },
+  {
+    "name": "_gat",
+    "value": "1",
+    "domain": ".kapten.com",
+    "path": "/",
+    "expires": 1573813831,
+    "size": 5,
+    "httpOnly": false,
+    "secure": false,
+    "session": false
+  },
+  {
+    "name": "amplitude_idundefinedkapten.com",
+    "value": "eyJvcHRPdXQiOmZhbHNlLCJzZXNzaW9uSWQiOm51bGwsImxhc3RFdmVudFRpbWUiOm51bGwsImV2ZW50SWQiOjAsImlkZW50aWZ5SWQiOjAsInNlcXVlbmNlTnVtYmVyIjowfQ==",
+    "domain": ".kapten.com",
+    "path": "/",
+    "expires": -1,
+    "size": 167,
+    "httpOnly": false,
+    "secure": false,
+    "session": true
+  },
+  {
+    "name": "amplitude_id_3b6d3c2224c24e1c9219245a89727ef7kapten.com",
+    "value": "eyJkZXZpY2VJZCI6ImNmZjIzM2Q2LTlmNjEtNDY2NC05ZjRlLTYwOWI2MjFhNjljOVIiLCJ1c2VySWQiOiI1ZGI4NjcwMjIxNGRmNzEwMDAyODU4MzEiLCJvcHRPdXQiOmZhbHNlLCJzZXNzaW9uSWQiOjE1NzM4MTM3Njc3MDQsImxhc3RFdmVudFRpbWUiOjE1NzM4MTM3ODQzMjgsImV2ZW50SWQiOjIsImlkZW50aWZ5SWQiOjEsInNlcXVlbmNlTnVtYmVyIjozfQ==",
+    "domain": ".kapten.com",
+    "path": "/",
+    "expires": 1889173784,
+    "size": 331,
+    "httpOnly": false,
+    "secure": false,
+    "session": false
+  },
+  {
+    "name": "ajs_group_id",
+    "value": "null",
+    "domain": ".kapten.com",
+    "path": "/",
+    "expires": 1605349766,
+    "size": 16,
+    "httpOnly": false,
+    "secure": false,
+    "session": false
+  }
+]
